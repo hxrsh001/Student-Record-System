@@ -22,6 +22,14 @@ Student Record System is a Python-based project designed to manage student infor
 - Loops
 - Data management
 
+## Code
+
+![Code](student_record_code.png)
+
+## Output
+
+![Output](student_record_output.png)
+
 ## Author
 
 Harsh Mishra
